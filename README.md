@@ -1,0 +1,1 @@
+psid = g tan phi / V
